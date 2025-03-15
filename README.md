@@ -1,50 +1,93 @@
-<<<<<<< HEAD
 # Word Hunt
-Word Hunt Is A Dictionary App that uses React And [FreeDictionaryApi](https://dictionaryapi.dev)
 
-## Available Scripts
+Word Hunt is a comprehensive dictionary application designed to provide users with an easy and efficient way to explore the meanings, pronunciations, synonyms, antonyms, and usage examples of words. Built with React and leveraging the powerful [FreeDictionary API](https://dictionaryapi.dev), Word Hunt delivers a seamless user experience with a sleek dark theme, making word exploration both enjoyable and educational.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Search for word meanings
+- View synonyms and antonyms
+- Pronunciation guide with audio
+- Dark theme for a sleek look
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation
 
-### `npm run build`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mmanikandan281/word-hunt.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd word-hunt
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Running the App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To start the development server, run:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm start
+```
 
-### `npm run eject`
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Building for Production
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To build the app for production, run:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+npm run build
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+The production build will be available in the `build/` directory.
+
+### Testing
+
+To launch the test runner, use:
+
+```bash
+npm test
+```
+
+## Troubleshooting
+
+If you encounter any errors related to OpenSSL, you can try running:
+
+```bash
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
+## Tech Stack
+
+- React
+- Material-UI
+- FreeDictionary API
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React Documentation](https://reactjs.org/)
+- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# Word-Hunt
-It used react to build this project
->>>>>>> bbc705e700aaad4d4e9c2ed35073180df8364629
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Happy coding! ✨
+
+Manikandan M😎
+
