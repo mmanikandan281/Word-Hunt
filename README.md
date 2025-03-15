@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word Hunt
 Word Hunt Is A Dictionary App that uses React And [FreeDictionaryApi](https://dictionaryapi.dev)
 
@@ -43,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Word-Hunt
+It used react to build this project
+>>>>>>> bbc705e700aaad4d4e9c2ed35073180df8364629
