@@ -2,6 +2,12 @@
 
 Word Hunt is a comprehensive dictionary application designed to provide users with an easy and efficient way to explore the meanings, pronunciations, synonyms, antonyms, and usage examples of words. Built with React and leveraging the powerful [FreeDictionary API](https://dictionaryapi.dev), Word Hunt delivers a seamless user experience with a sleek dark theme, making word exploration both enjoyable and educational.
 
+
+![Screenshot (83)](https://github.com/user-attachments/assets/f96d54b3-f96d-445a-a942-e540fa08771c)
+
+
+
+
 ## Features
 
 - Search for word meanings
